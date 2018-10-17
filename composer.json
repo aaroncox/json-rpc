@@ -1,0 +1,14 @@
+{
+    "name": "aaron/json-rpc",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aaron Cox",
+            "email": "aaron@greymass.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"JsonRPC": "src/"}
+    },
+    "require": {}
+}
